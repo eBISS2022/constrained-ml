@@ -1,5 +1,5 @@
 ---
-title: Machine Learning and Constrained Optimization (Part 3)
+title: Constrained Machine Learning
 author: michele.lombardi2@unibo.it
 ---
 
@@ -14,7 +14,7 @@ Students are strongly encouraged to _run all lectures locally_. Doing this will 
 instructions](https://docs.docker.com/compose/install/)
 * Clone the repository with the tutorial, in this case via the command:
 ```sh
-git clone https://github.com/lompabo/aiiti-01-2021.git
+git clone https://github.com/eBISS2022/constrained-ml
 ```
 * Start the container via Docker Compose, from the main directory of the
 tutorial:
